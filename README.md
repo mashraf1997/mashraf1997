@@ -2,7 +2,7 @@
 
 Welcome to **MirrorORG CEO** — a professional platform for website development and graphic design led by **Mohamed Ashraf**, a passionate and experienced full-stack web developer.
 
-<img src="https://ceo.mirrororg.com/wp-content/uploads/2024/03/mirrororg-logo.svg" alt="MirrorORG Logo" width="180" />
+<img src="https://mirrororg.com/wp-content/uploads/2024/08/Artboard-43.png" alt="MirrorORG Logo" width="180" />
 
 ---
 
