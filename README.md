@@ -114,9 +114,20 @@ Performance is treated as a product feature, not a final checklist. MirrorORG wo
 | :--- | :--- | :--- |
 | Core Web Vitals, caching, CDN, code and database optimization | 99.9% uptime monitoring, 5-minute checks, backups and security updates | Technical SEO, analytics, UX improvements and conversion-focused delivery |
 
+## Open Source
+
+Production-minded tools I've open-sourced, each drawn from a MirrorORG product. Every repo is fully tested and runs CI on every push.
+
+| Project | Stack | What it does |
+| :--- | :--- | :--- |
+| **[mailguard](https://github.com/mashraf1997/mailguard)** | `Go` | Audits a domain's SPF, DKIM, DMARC, MX, MTA-STS and TLS-RPT records, grades it A–F, and gives step-by-step fixes. Built on lessons from **Bosta**. |
+| **[arabic-kit](https://github.com/mashraf1997/arabic-kit)** | `TypeScript` | Arabic toolkit: spelling-tolerant search, normalization, slugs, transliteration, digits, direction and تفقيط (number-to-words) for invoices. Powers bilingual work like **Masar**. |
+| **[hookshield](https://github.com/mashraf1997/hookshield)** | `PHP` | Standard Webhooks signing/verification with key rotation, replay protection and retrying delivery. Born from **Mersal**'s event pipeline. |
+| **[bundle-budget](https://github.com/mashraf1997/bundle-budget)** | `Node.js` | Performance budgets for build output (raw, gzip, brotli) with baselines, Markdown PR reports and CI exit codes. The guardrail behind our 95%+ PageSpeed focus. |
+
 ## Core Engineering Stack
 
-**Backend** — <code>PHP</code> · <code>Laravel</code> · <code>Node.js</code> · <code>MySQL</code> · <code>REST APIs</code> · <code>Webhooks</code>  
+**Backend** — <code>PHP</code> · <code>Laravel</code> · <code>Node.js</code> · <code>Go</code> · <code>MySQL</code> · <code>REST APIs</code> · <code>Webhooks</code>  
 **Frontend** — <code>JavaScript</code> · <code>TypeScript</code> · <code>Next.js</code> · <code>HTML5</code> · <code>CSS3</code>  
 **Platforms** — <code>WordPress</code> · <code>WooCommerce</code> · <code>Linux</code> · <code>Git</code> · <code>Cloudflare</code>  
 **Product Systems** — <code>AI Integrations</code> · <code>Automation</code> · <code>Email Infrastructure</code> · <code>Omnichannel Messaging</code>
