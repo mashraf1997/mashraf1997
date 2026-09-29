@@ -3,75 +3,64 @@
 </p>
 
 <h1 align="center">Mohamed Ashraf</h1>
-<h3 align="center">Software Engineer • Full-Stack Developer • Founder of MirrorORG</h3>
+<p align="center"><strong>Software Engineer · Product Builder · Founder of <a href="https://mirrororg.com/">MirrorORG</a></strong></p>
+<p align="center">Building practical platforms for communication, web publishing, and business infrastructure.</p>
 
 <p align="center">
-  <a href="https://mirrororg.com/"><img src="https://img.shields.io/badge/MirrorORG-Visit_Website-1766FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MirrorORG Website" /></a>
-  <a href="https://www.linkedin.com/in/mashraf1997/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:info@mirrororg.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mirrororg.com/">Website</a> ·
+  <a href="https://www.linkedin.com/in/mashraf1997/">LinkedIn</a> ·
+  <a href="mailto:info@mirrororg.com">Email</a> ·
+  <a href="https://ceo.mirrororg.com/professional-web-design-and-graphic-design-by-us-with-love/">Portfolio</a>
 </p>
 
-## About Me
+---
 
-I'm **Mohamed Ashraf**, a software engineer and full-stack web developer from Egypt, and the founder of **[MirrorORG](https://mirrororg.com/)**. For more than 10 years, I have been turning business ideas into polished digital experiences through practical engineering and thoughtful design.
+## Profile
 
-- Building responsive, secure, and SEO-friendly websites
-- Developing custom WordPress solutions and PHP tools
-- Connecting clean front-end experiences with reliable back-end systems
-- Designing user interfaces, brands, and visual assets
-- Optimizing and supporting production websites
+I'm a software engineer and product builder from Egypt with **10+ years of experience** turning ambitious ideas into dependable digital products. As the founder of **[MirrorORG](https://mirrororg.com/)**, I work across product strategy, system architecture, full-stack engineering, and interface design.
 
-> I build with purpose: clear experiences, reliable code, and measurable business value.
+My work includes the product ecosystems behind **Mersal**, **Masar**, and **Bosta** — platforms built to solve real communication, publishing, and business-infrastructure problems.
 
-## Tech & Tools
+> Clear experiences. Reliable systems. Measurable business value.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
+## Product Portfolio
 
-## What I Do
+| Product | Purpose | Core Capabilities |
+| :--- | :--- | :--- |
+| **[Mersal — مرسال](https://mersal.it/)** | Omnichannel messaging and intelligent marketing automation for businesses. | WhatsApp, SMS, email, Telegram, unified inbox, AI replies, campaigns, WordPress and WooCommerce integrations, APIs and webhooks. |
+| **[Masar — مسار](https://msar.cloud/)** | An AI web studio that turns a business description into a polished, bilingual website. | AI art direction, Arabic and English generation, live visual editing, motion systems, SEO, analytics, automation, cloud and self-hosted delivery. |
+| **[Bosta — بوسطة](https://bosta.email/)** | Professional business email hosting on custom domains. | Real mailboxes, domain setup, SPF/DKIM/DMARC, spam and virus filtering, webmail, IMAP/SMTP, encrypted delivery and mailbox management. |
 
-| Web Engineering | WordPress | Product Design | Technical Support |
-|:---:|:---:|:---:|:---:|
-| Full-stack websites and web applications | Custom solutions, optimization, and integrations | UI/UX, branding, and visual direction | Maintenance, troubleshooting, and performance |
+## Expertise
 
-## Featured Work
+| Web Engineering | Product Systems | Design & Experience |
+| :--- | :--- | :--- |
+| Full-stack websites and web applications | SaaS architecture, integrations, APIs and automation | UI/UX, visual direction and brand systems |
+| Performance, security and SEO foundations | Messaging, identity, email and publishing platforms | Responsive interfaces built for real users |
 
-- **[OmniRoute](https://github.com/mashraf1997/OmniRoute)** — Open-source AI gateway fork connecting developer tools with multiple model providers. **TypeScript**
-- **[Server-to-Server File Clone](https://github.com/mashraf1997/Server-To-Server-File-Clone)** — A focused utility for transferring files directly between servers. **PHP**
-- **[Archive Extractor on Server](https://github.com/mashraf1997/Archieve-Extractor-On-Server)** — A lightweight server-side archive extraction utility. **PHP**
-- **[WordPress Snippets](https://github.com/mashraf1997/Wordpress-Snippests)** — Reusable snippets for common WordPress development tasks. **PHP**
+## Core Stack
 
-<p align="center">
-  <a href="https://ceo.mirrororg.com/professional-web-design-and-graphic-design-by-us-with-love/"><img src="https://img.shields.io/badge/Explore_My_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=1766FF" alt="Portfolio" /></a>
-  <a href="https://ceo.mirrororg.com/mirror-org-blog-professional-web-design-and-graphic-design/"><img src="https://img.shields.io/badge/Read_My_Blog-111827?style=for-the-badge&logo=hashnode&logoColor=1766FF" alt="Blog" /></a>
-</p>
+**Backend** — `PHP` · `Laravel` · `Node.js` · `MySQL` · `REST APIs` · `Webhooks`  
+**Frontend** — `JavaScript` · `TypeScript` · `Next.js` · `HTML5` · `CSS3`  
+**Platforms** — `WordPress` · `WooCommerce` · `Linux` · `Git`  
+**Product** — `AI Integrations` · `Automation` · `Email Infrastructure` · `Omnichannel Messaging`  
+**Design** — `Figma` · `UI/UX` · `Brand Identity`
 
-## GitHub Overview
+## Open-Source Work
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mashraf1997&show_icons=true&hide_border=true&theme=transparent&title_color=1766FF&icon_color=1766FF&text_color=64748B" alt="Mohamed Ashraf's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashraf1997&layout=compact&hide_border=true&theme=transparent&title_color=1766FF&text_color=64748B" alt="Most used languages" />
-</p>
+| Project | What it does | Stack |
+| :--- | :--- | :---: |
+| **[OmniRoute](https://github.com/mashraf1997/OmniRoute)** | Open-source AI gateway connecting developer tools with multiple model providers. | `TypeScript` |
+| **[Server-to-Server File Clone](https://github.com/mashraf1997/Server-To-Server-File-Clone)** | Focused utility for transferring files directly between remote servers. | `PHP` |
+| **[Archive Extractor on Server](https://github.com/mashraf1997/Archieve-Extractor-On-Server)** | Lightweight server-side archive extraction utility. | `PHP` |
+| **[WordPress Snippets](https://github.com/mashraf1997/Wordpress-Snippests)** | Reusable snippets for everyday WordPress development tasks. | `PHP` |
 
-## Let's Build Something Great
+## Building Through MirrorORG
 
-Have a product idea, a website that needs a stronger foundation, or a design challenge worth solving? I'm open to thoughtful collaborations.
+At **[MirrorORG](https://mirrororg.com/)**, I bring strategy, engineering, design, and long-term product support together. The goal is simple: build technology that looks considered, works reliably, and creates lasting value.
 
-<p align="center">
-  <strong><a href="https://mirrororg.com/">Visit MirrorORG</a> • <a href="https://www.linkedin.com/in/mashraf1997/">Connect on LinkedIn</a> • <a href="mailto:info@mirrororg.com">Send an Email</a></strong>
-</p>
+## Let's Build Something Useful
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mashraf1997&style=flat-square&color=1766FF&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+Have a product idea, a platform that needs a stronger foundation, or a design challenge worth solving? I'm open to thoughtful collaborations.
+
+**[Visit MirrorORG](https://mirrororg.com/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/mashraf1997/)** · **[Send an Email](mailto:info@mirrororg.com)**
