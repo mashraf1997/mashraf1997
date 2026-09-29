@@ -1,0 +1,10 @@
+{
+  "ignore": ["budget.json"],
+  "budgets": [
+    { "name": "JavaScript", "path": "**/*.js", "max": "10 kB", "maxTotal": "15 kB", "compression": "brotli" },
+    { "name": "CSS", "path": "**/*.css", "max": "5 kB", "compression": "gzip" },
+    { "name": "HTML", "path": "*.html", "max": "2 kB" },
+    { "name": "Images", "path": "**/*.{webp,avif,png,jpg}", "max": "100 kB", "compression": "raw" },
+    { "name": "Everything", "path": "**", "maxTotal": "150 kB", "compression": "raw" }
+  ]
+}
