@@ -57,6 +57,17 @@ MirrorORG takes projects from discovery and design through development, launch, 
   <strong><a href="https://projects.mirrororg.com/">Explore the complete MirrorORG portfolio — 98+ real projects →</a></strong>
 </p>
 
+## Open Source
+
+Production-minded tools extracted from the products above. Each one is fully tested and verified in CI. Browse them in [`projects/`](./projects).
+
+| Project | Stack | What it does |
+| :--- | :--- | :--- |
+| **[mailguard](./projects/mailguard)** | `Go` | Audits a domain's SPF, DKIM, DMARC, MX, MTA-STS and TLS-RPT records, then grades it A–F and gives step-by-step fixes. Built on lessons from **Bosta**. |
+| **[arabic-kit](./projects/arabic-kit)** | `TypeScript` | Arabic toolkit: spelling-tolerant search, normalization, slugs, transliteration, digits, text direction and تفقيط (number-to-words) for invoices. Powers bilingual work such as **Masar**. |
+| **[hookshield](./projects/hookshield)** | `PHP` | Standard Webhooks signing and verification with key rotation, replay protection and retries with backoff. Born from **Mersal**'s event pipeline. |
+| **[bundle-budget](./projects/bundle-budget)** | `Node.js` | Performance budgets for build output (raw, gzip and brotli), with baselines, Markdown PR reports and CI exit codes. The guardrail behind our 95%+ PageSpeed focus. |
+
 ## Expertise
 
 | Web Engineering | Product Systems | Design & Experience |
@@ -66,9 +77,9 @@ MirrorORG takes projects from discovery and design through development, launch, 
 
 ## Core Stack
 
-**Backend** — `PHP` · `Laravel` · `Node.js` · `MySQL` · `REST APIs` · `Webhooks`  
+**Backend** — `PHP` · `Laravel` · `Node.js` · `Go` · `MySQL` · `REST APIs` · `Webhooks`  
 **Frontend** — `JavaScript` · `TypeScript` · `Next.js` · `HTML5` · `CSS3`  
-**Platforms** — `WordPress` · `WooCommerce` · `Linux` · `Git`  
+**Platforms** — `WordPress` · `WooCommerce` · `Linux` · `Git` · `GitHub Actions`  
 **Product** — `AI Integrations` · `Automation` · `Email Infrastructure` · `Omnichannel Messaging`
 
 ## Open to Building What Matters

@@ -1,0 +1,32 @@
+{
+    "name": "mirrororg/hookshield",
+    "description": "Sign, verify and reliably deliver webhooks. Standard Webhooks compatible, with key rotation, replay protection and retries with backoff.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["webhook", "hmac", "signature", "standard-webhooks", "security", "laravel", "retry"],
+    "authors": [
+        { "name": "Mohamed Ashraf", "email": "info@mirrororg.com", "homepage": "https://mirrororg.com" }
+    ],
+    "require": {
+        "php": ">=8.1",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    },
+    "suggest": {
+        "ext-curl": "Required by CurlTransport for outgoing deliveries"
+    },
+    "autoload": {
+        "psr-4": { "MirrorOrg\\HookShield\\": "src/" }
+    },
+    "autoload-dev": {
+        "psr-4": { "MirrorOrg\\HookShield\\Tests\\": "tests/" }
+    },
+    "scripts": {
+        "test": "phpunit"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
