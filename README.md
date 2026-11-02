@@ -138,6 +138,13 @@ Self-hosted apps for the shops, clinics, cafés and teachers we work with every 
 | ☕ | **[Khatm — ختم](https://github.com/mashraf1997/khatm)** | A digital loyalty stamp card with a rotating QR at the counter. |
 | 🧾 | **[Fatoora — فاتورة](https://github.com/mashraf1997/fatoora)** | Invoices and quotes in Arabic and English, with client links and payments. |
 | 🎓 | **[Moallem — معلّم](https://github.com/mashraf1997/moallem)** | Groups, attendance, fees and results for private tutors, with parent alerts on Telegram. |
+| 📚 | **[Doroos — دروس](https://github.com/mashraf1997/doroos)** | Sell your own online courses: course pages, student accounts, card or transfer payments, coupons and progress. |
+| 🎫 | **[Dor — دور](https://github.com/mashraf1997/dor)** | A virtual queue: take a number by QR, get alerted on your phone, and a TV calls numbers out loud. |
+| ⏱️ | **[Hader — حاضر](https://github.com/mashraf1997/hader)** | Staff attendance with a QR code that changes every minute, leave requests and automatic payroll. |
+| 💰 | **[Raseed — رصيد](https://github.com/mashraf1997/raseed)** | A cash book and customer credit ledger for shops, with WhatsApp reminders and statement links. |
+| 📍 | **[Daleel — دليل](https://github.com/mashraf1997/daleel)** | A directory website for places and services, with reviews, maps and paid featured listings. |
+
+**[Ouda — عُدّة](https://github.com/mashraf1997/ouda)** installs all of them, or a pack for clinics, cafés, shops, teachers or agencies, on one server in one click with automatic HTTPS.
 
 ## Core Engineering Stack
 
