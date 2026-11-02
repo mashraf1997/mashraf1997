@@ -125,6 +125,20 @@ Production-minded tools I've open-sourced, each drawn from a MirrorORG product. 
 | **[hookshield](https://github.com/mashraf1997/hookshield)** | `PHP` | Standard Webhooks signing/verification with key rotation, replay protection and retrying delivery. Born from **Mersal**'s event pipeline. |
 | **[bundle-budget](https://github.com/mashraf1997/bundle-budget)** | `Node.js` | Performance budgets for build output (raw, gzip, brotli) with baselines, Markdown PR reports and CI exit codes. The guardrail behind our 95%+ PageSpeed focus. |
 
+## Open-Source Toolkit for Small Businesses
+
+Self-hosted apps for the shops, clinics, cafés and teachers we work with every day. Arabic-first, no monthly fees, and each one deploys to a VPS in one click with Docker.
+
+| | Project | What it does |
+| :---: | :--- | :--- |
+| 🤖 | **[Wakeel — وكيل](https://github.com/mashraf1997/wakeel)** | AI customer service on WhatsApp, Instagram, Messenger, Telegram and the website: answers, takes orders and bookings, hands over to a human. |
+| 🛒 | **[Dukkan — دكان](https://github.com/mashraf1997/dukkan)** | WhatsApp ordering store and QR menu. |
+| 📅 | **[Mawid — موعد](https://github.com/mashraf1997/mawid)** | A booking page for clinics, salons and consultants. |
+| 📣 | **[Nashr — نشر](https://github.com/mashraf1997/nashr)** | AI-written social media posts in the brand's voice, published on schedule. |
+| ☕ | **[Khatm — ختم](https://github.com/mashraf1997/khatm)** | A digital loyalty stamp card with a rotating QR at the counter. |
+| 🧾 | **[Fatoora — فاتورة](https://github.com/mashraf1997/fatoora)** | Invoices and quotes in Arabic and English, with client links and payments. |
+| 🎓 | **[Moallem — معلّم](https://github.com/mashraf1997/moallem)** | Groups, attendance, fees and results for private tutors, with parent alerts on Telegram. |
+
 ## Core Engineering Stack
 
 **Backend** — <code>PHP</code> · <code>Laravel</code> · <code>Node.js</code> · <code>Go</code> · <code>MySQL</code> · <code>REST APIs</code> · <code>Webhooks</code>  
