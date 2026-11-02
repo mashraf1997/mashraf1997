@@ -127,7 +127,7 @@ Production-minded tools I've open-sourced, each drawn from a MirrorORG product. 
 
 ## Open-Source Toolkit for Small Businesses
 
-Self-hosted apps for the shops, clinics, cafés and teachers we work with every day. Arabic-first, no monthly fees, and each one deploys to a VPS in one click with Docker.
+Self-hosted apps for the shops, clinics, cafés, repair shops, landlords and teachers we work with every day. Arabic-first, no monthly fees, and each one deploys to a VPS in one click with Docker.
 
 | | Project | What it does |
 | :---: | :--- | :--- |
@@ -143,8 +143,14 @@ Self-hosted apps for the shops, clinics, cafés and teachers we work with every 
 | ⏱️ | **[Hader — حاضر](https://github.com/mashraf1997/hader)** | Staff attendance with a QR code that changes every minute, leave requests and automatic payroll. |
 | 💰 | **[Raseed — رصيد](https://github.com/mashraf1997/raseed)** | A cash book and customer credit ledger for shops, with WhatsApp reminders and statement links. |
 | 📍 | **[Daleel — دليل](https://github.com/mashraf1997/daleel)** | A directory website for places and services, with reviews, maps and paid featured listings. |
+| 💬 | **[Hamla — حملة](https://github.com/mashraf1997/hamla)** | WhatsApp campaigns through the official Cloud API: subscribers with consent, approved templates, paced sending, read tracking and unsubscribe. |
+| ⭐ | **[Takyeem — تقييم](https://github.com/mashraf1997/takyeem)** | More Google reviews: a QR per branch and staff member, private feedback first, and an alert when someone is unhappy. |
+| 📦 | **[Makhzan — مخزن](https://github.com/mashraf1997/makhzan)** | Inventory and point of sale with barcodes, labels, stock counts and profit reports. |
+| 🔧 | **[Siyana — صيانة](https://github.com/mashraf1997/siyana)** | Repair-shop jobs: device intake, quote approval on a tracking page, status updates and receipts. |
+| 🩺 | **[Kashf — كشف](https://github.com/mashraf1997/kashf)** | Patient records, visits and printed prescriptions for small clinics, with a reception login. |
+| 🏢 | **[Aqar — عقار](https://github.com/mashraf1997/aqar)** | Rental management: leases with yearly increases, rent and late fees, arrears and a page for each tenant. |
 
-**[Ouda — عُدّة](https://github.com/mashraf1997/ouda)** installs all of them, or a pack for clinics, cafés, shops, teachers or agencies, on one server in one click with automatic HTTPS.
+**[Ouda — عُدّة](https://github.com/mashraf1997/ouda)** installs all 18 of them, or a pack for clinics, cafés, shops, repair shops, landlords, teachers or agencies, on one server in one click with automatic HTTPS. It also has a live demo pack and an [install-it-for-me service](https://github.com/mashraf1997/ouda#install-it-for-me--ركّبهالي).
 
 ## Core Engineering Stack
 
